@@ -1,0 +1,28 @@
+{
+  "name": "vn-php-theme",
+  "displayName": "VN PHP Theme",
+  "description": "Awesome VN PHP Theme",
+  "version": "0.0.1",
+  "publisher": "viet-dinh-theme",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "php",
+    "vn",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Awesome VN PHP Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Awesome VN PHP Theme-color-theme.json"
+      }
+    ]
+  }
+}

@@ -2,7 +2,8 @@
   "name": "vn-php-theme",
   "displayName": "VN PHP Theme",
   "description": "Awesome VN PHP Theme",
-  "version": "0.0.1",
+  "icon": "images/html_logo.png",
+  "version": "1.0.0",
   "publisher": "viet-dinh-theme",
   "engines": {
     "vscode": "^1.90.0"
@@ -16,6 +17,10 @@
     "vn",
     "dark"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viet-dinh/php-vscode-theme.git"
+  },
   "contributes": {
     "themes": [
       {
